@@ -14,9 +14,9 @@ let myObject = {
     let f = () => console.log('func')
     f()
 
-    const path_base = 'E://node'
-    const path_joined = join(path_base, 'bin')
-    console.log(path_joined)
+    // const path_base = 'E://node'
+    // const path_joined = join(path_base, 'bin')
+    // console.log(path_joined)
 
     // $('p').css("color", 'red')
   }
